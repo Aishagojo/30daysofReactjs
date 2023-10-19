@@ -5,7 +5,7 @@ This repository will contains my solutions and progress for the "30 Days of Code
 
 ## What i will Learne
 
-During this challenge, I've learned:
+During this challenge, I will learned:
 
 - Fundamentals of various data structures and algorithms.
 - Problem-solving strategies and techniques.
